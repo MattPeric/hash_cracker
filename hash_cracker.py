@@ -1,5 +1,5 @@
 """
-Doc string explaining script
+A script that performs a dictionary attack on an example CSV containing usernames and hashed passwords. 
 """
 
 import hashlib
